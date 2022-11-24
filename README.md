@@ -51,5 +51,5 @@ For other questions or additional help using qBraid, see [Lab User Guide](https:
 
 CERTIFICATE:
 
-<img width="752" alt="Lab3" src="https://github.com/yliu9418/HAQS-2022/blob/f871322e4041a03929ef47a0c8876b404230a822/HAQS_%20Yang%20Liu_CERTIFICATE.pdf">
+<img width="752" alt="Lab3" src="Certificate.png">
 
