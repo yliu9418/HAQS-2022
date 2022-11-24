@@ -50,4 +50,4 @@ For other questions or additional help using qBraid, see [Lab User Guide](https:
 
 
 
-![HAQS_ Yang Liu_CERTIFICATE](https://user-images.githubusercontent.com/42554402/181377588-6e38c520-1cdb-462b-b93c-9171640989c2.png)
+![HAQS_ Yang Liu_CERTIFICATE](https://github.com/yliu9418/HAQS-2022/blob/main/HAQS_%20Yang%20Liu_CERTIFICATE.pdf)
