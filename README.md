@@ -49,5 +49,5 @@ For help with these instructions, follow along with the HAQS getting started vid
 For other questions or additional help using qBraid, see [Lab User Guide](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/lab/overview.html), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
 
 
-
-![CERTIFICATE](https://github.com/yliu9418/HAQS-2022/blob/5889f8a2126ddffcc93c27a81ef5237a6e1c82fa/HAQS_%20Yang%20Liu_CERTIFICATE.pdf)
+CERTIFICATE:
+![CERTIFICATE](https://github.com/yliu9418/HAQS-2022/blob/f871322e4041a03929ef47a0c8876b404230a822/HAQS_%20Yang%20Liu_CERTIFICATE.pdf)
