@@ -47,3 +47,7 @@ To submit your hack, create a pull request from your team's named branch (create
 For help with these instructions, follow along with the HAQS getting started video demo: https://youtu.be/uYGV9w2DUcg
 
 For other questions or additional help using qBraid, see [Lab User Guide](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/lab/overview.html), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
+
+
+
+![HAQS_ Yang Liu_CERTIFICATE](https://user-images.githubusercontent.com/42554402/181377588-6e38c520-1cdb-462b-b93c-9171640989c2.png)
